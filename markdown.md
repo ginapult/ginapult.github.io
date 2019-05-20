@@ -7,8 +7,8 @@
 * I can have up to six different types/sizes of headers using "#"
   * For example:
     * ```# Header 1``` = 
-    
-       # Header 1
+           # Header 1
+           
     * ```## Header 2``` = 
     
        ## Header 2
