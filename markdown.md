@@ -1,4 +1,4 @@
-**What I learned about markdown:**
+# What I learned about markdown:
 * Markdown is a way to style text on the web and it can be used in most places on GitHub
 * Markdown is mostly just regular text with a few non-alpha characters thrown in.
   * For example, ```**This is Bold**```="**This is Bold**"
