@@ -16,3 +16,5 @@ Lab 01: Learning Markdown
 
 * When things are challenging/hard, I will remind myself:
 > "This is meant to be hard. I am growing by challenging myself."
+
+![Image of Growth vs Fixed Mindset](http://cdn2.business2community.com/wp-content/uploads/2016/05/fixedvsgrowth-670x821.jpg.jpg)
