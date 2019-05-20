@@ -9,15 +9,14 @@
     * ```# Header 1``` =
     # Header 1        
     * ```## Header 2``` = 
-    
-       ## Header 2
+    ## Header 2
     * ```### Header3``` = 
-       ### Header 3
+    ### Header 3
     * ```#### Header4``` = 
-       #### Header 4
+    #### Header 4
     * ```##### Header 5``` = 
-       ###### Header 5
+    ###### Header 5
     * ```###### Header 6``` = 
-       ###### Header 6
+    ###### Header 6
   
 * This page has a good explanation of markdown: https://guides.github.com/features/mastering-markdown/
