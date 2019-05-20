@@ -1,4 +1,4 @@
-# ginapult.github.io
+Lab 01: Learning Markdown
 
 # What I learned about Growth Mindset
 
