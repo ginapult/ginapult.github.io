@@ -18,5 +18,6 @@
     ###### Header 5
     * ```###### Header 6``` = 
     ###### Header 6
-  
+* I can also add emojis
+  * For example ```:heart_eyes:``` will embed the :heart_eyes: emoji!
 * This page has a good explanation of markdown: https://guides.github.com/features/mastering-markdown/
