@@ -6,8 +6,8 @@
   * For example, I used this ```![Image of Rainbow](http://howitworks.wpengine.com/wp-content/uploads/2015/06/double-rainbow-wide-wallpaper-339755.jpg)``` to embed this image below:![Image of Rainbow](http://howitworks.wpengine.com/wp-content/uploads/2015/06/double-rainbow-wide-wallpaper-339755.jpg)
 * I can have up to six different types/sizes of headers using "#"
   * For example:
-    * # Header 1
-           
+    * ```# Header 1``` =
+    # Header 1        
     * ```## Header 2``` = 
     
        ## Header 2
