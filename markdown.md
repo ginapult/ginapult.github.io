@@ -39,8 +39,8 @@ Read 01: Learning Markdown
     - [ ] this is incomplete
 
 
-* This page has a good explanation of markdown: https://guides.github.com/features/mastering-markdown/
-* This section of the page has a list of the markdowns that's useful: https://guides.github.com/features/mastering-markdown/#syntax
+* This page has a good explanation of markdown: [markdown explanation](https://guides.github.com/features/mastering-markdown/)
+* This section of the page has a list of the markdowns that's useful: [syntax](https://guides.github.com/features/mastering-markdown/#syntax)
 
 
 **Questions I'm left with today:**
