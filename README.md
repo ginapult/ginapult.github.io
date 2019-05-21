@@ -2,8 +2,6 @@ Lab 01: Learning Markdown
 
 # What I learned about Growth Mindset
 
-## Growth Mindset in My Words
-
 *Growth mindset* is understanding that **no matter what, with effort, it's possible to learn and grow.** The other type of mindset is "fixed" in that you think you are only as good as your natural talents and cannot learn or grow beyond them.
 
 ## 3 Reminders for me to keep a growth mindset:
@@ -20,3 +18,12 @@ Lab 01: Learning Markdown
 ## Fixed vs Growth Mindset
 
 ![Image of Growth vs Fixed Mindset](http://cdn2.business2community.com/wp-content/uploads/2016/05/fixedvsgrowth-670x821.jpg.jpg)
+
+When you want to tell yourself... | Remember that...
+------------ | -------------
+~~I'm not good at this.~~ | No one is good at it when just beginning.
+~~I give up.~~ | Trying a new strategy will give me a way forward.
+~~This is too hard.~~ | It's meant to be hard. We grow by challenging ourselves.
+~~I made a mistake.~~ | Mistakes prove I'm putting in the effort. What effort is helpful next?
+~~I'll never be that smart.~~ | Being smart is something you learn. You aren't done getting smarter.
+~~It's not easy... I can't figure it out... I don't know...~~ | ...yet
