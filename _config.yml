@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+#Jekyll configuration
+name: Octocat's Wanderings
+description: Chronicaes of my adventures in coding
+url: "http://octocat.github.io"
+markdown: kramdown
+highlighter: rouge
