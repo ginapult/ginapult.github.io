@@ -36,3 +36,6 @@ Read 01: Learning Markdown
 
 * This page has a good explanation of markdown: https://guides.github.com/features/mastering-markdown/
 * This section of the page has a list of the markdowns that's useful: https://guides.github.com/features/mastering-markdown/#syntax
+
+**Questions I'm left with today:**
+- curious that emojis, spaces between paragraphs, and auto url links don't seem to be working when translating to html
