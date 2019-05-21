@@ -1,7 +1,5 @@
 # Git Learnings
 
-# Git Learnings
-
 ## Version Control
 
 **Version Control System (VCS)** - a system that allows you to revisit various versions of a file or set of files by recording changes
