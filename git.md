@@ -69,12 +69,12 @@ To check settings, use the `git config --list` command.
 
 Example:
 
-$ git config --list
+`$ git config --list
 user.name=Jane Smith
 user.email=example@email.com
 color.status=auto
 color.branch=auto
-color.interactive=auto
+color.interactive=auto`
 ...
 
 + Getting Help - There are three ways to get more information on a particular command, by accessing the manual:
@@ -87,28 +87,26 @@ man git-command
 + Importing - To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
   + Switch to the target project’s directory
 Example:
-$ cd test (cd = change directory)
+`$ cd test` (cd = change directory)
 Use the git init command
-$ git init
+`$ git init`
 Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 
   + To start tracking these repository files, perform an initial commit by typing the following:
-$ git add *.c
-$ git add LICENSE
-$ git commit -m “any message here”
+`$ git add *.c`
+`$ git add LICENSE`
+`$ git commit -m “any message here”`
 Now, your files are tracked and there’s an initial commit. We will discuss the particular commands in detail soon.
 
 ## Cloning
 
 ### Clone
 You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
-
-$ git clone https://github.com/test
+`$ git clone https://github.com/test`
 By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
 
 To clone a repository into a directory with another name of your choosing, use the following command format:
-
-$ git clone https://github.com/test mydirectory
+`$ git clone https://github.com/test mydirectory`
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
 ### Workflow
@@ -132,22 +130,20 @@ All files in a checked out (or working) copy of a project file are either in a t
 
 ## Check File Status
 To determine the state of files, utilize the git status command:
-
-$ git status
+`$ git status`
 On branch master
 nothing to commit, working directory clean
 
 *This information indicates which branch you’re on (we will cover branches in a later section) and states “working directory clean,” which means that files have tracked or modified status at the moment. Also, no untracked files are present because Git has not listed any.
 
 ## Tracking and Staging a New File
-+ Single File - Track one file only by using the following format: git add filename
-+ All Files - Track all files in a repository by using the following command:
-$ git add *
++ Single File - Track one file only by using the following format: `git add filename`
++ All Files - Track all files in a repository by using the following command: `$ git add *`
 *After using these commands, files are tracked and staged for committing.
 
 After adding a new file called EXAMPLE, you would see information regarding changes to be committed when using the git status command:
 
-$ git status
+`$ git status`
 On branch master
 Changes to be committed:
   (use "git reset HEAD ..." to unstage)
@@ -157,11 +153,11 @@ This information tells us that there are changes to be committed and that the fi
 ## Committing a File
 After staging one or multiple files, you should commit the changes and record what you did within the commit message:
 
-$ git commit -m “made change x,y,z”
+`$ git commit -m “made change x,y,z”`
 *This step has committed changes for the file or files (you can have one commit message for multiple files, if applicable) to the HEAD.
 
 ## Committing All Changes
-$ git commit -a
+`$ git commit -a`
 *This command commits a snapshot of all modifications to tracked files in the working directory.
 
 ## Pushing Changes
@@ -169,13 +165,13 @@ Next, you push changes to a remote repository.
 
 Example:
 
-$ git push origin master
+`$ git push origin master`
 *This command pushes changes from the local “master” branch to the remote repository named “origin”.
 
 *For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
 
 ## Stashing Changes
-When you are not ready to commit changes but do not want to lose them either, git stash is a great option. This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the git stash apply command to retrieve the hidden changes.
+When you are not ready to commit changes but do not want to lose them either, `git stash` is a great option. This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the git stash apply command to retrieve the hidden changes.
 
 ## Remote Repositories
 In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
