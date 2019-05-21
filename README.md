@@ -27,3 +27,5 @@ When you want to tell yourself... | Remember that...
 ~~I made a mistake.~~ | Mistakes prove I'm putting in the effort. What effort is helpful next?
 ~~I'll never be that smart.~~ | Being smart is something you learn. You aren't done getting smarter.
 ~~It's not easy... I can't figure it out... I don't know...~~ | ...yet
+
+>"A few modern philosophers assert that an individual's intelligence is a fixed quantity, a quantity which cannot be increased. We must protest and react against this brutal pessimism... With practice, training, and above all, method, we manage to increase our attention, our memory, our judgement and literally to become more intelligent than we were before." - Alfred Binet, Inventor of the IQ Test
