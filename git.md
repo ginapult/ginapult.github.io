@@ -21,10 +21,10 @@
 Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called **commit** — Git creates a snapshot of the file and stores a reference to it. If the file hasn't changed, Git only stores a reference to the already-stored identical version of it.
 
 ### Local Operations
-Git mostly relies on local operations because most necessary information can be found in local resources. This allows for process expediency because a project’s history resides on the local disk, eliminating the need to fetch history information from the server, and allowing one to continue work on a project even when not online or on a VPN.
+Git mostly relies on local operations because most necessary information can be found in local resources. This allows for process expediency, eliminates the need to fetch history information from the server, and allows you to continue work on a project even when not online or on a VPN.
 
 ### Tracking Changes
-Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit.
+Every single change applied to any file or directory is tracked by Git. Git is like a gatekeeper that always detects file corruption or loss of information in transit.
 
 ### Loss of Data
 Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
@@ -36,11 +36,10 @@ Files in Git can reside in three main states
 + **Staged** - Flagged a file’s changed version to be committed in the next snapshot
 
 ## History of Git
-+ roots to the open source software project Linux kernel. 
-+ Developers began using a DVCS called BitKeeper in 2002. 
++ roots to the open source software project Linux kernel; developers started using a DVCS called BitKeeper in 2002
 + In 2005, many of these developers stopped using this DVCS due to tension between the Linux kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status.
-+ Linus Torvalds, the chief architect of the Linux kernel, began creating Git, with the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design. 
-+ Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
++ Linus Torvalds, the chief architect of the Linux kernel, began creating Git, with the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast; Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design
++ Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world
 
 ## Getting Started
 + Download and Install Git
