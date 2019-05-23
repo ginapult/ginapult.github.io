@@ -1,3 +1,5 @@
+Hello! I'm Gina and I'm excited to be part of the Code Fellows 102 course.
+
 Lab 01: Learning Markdown
 
 # What I learned about Growth Mindset
