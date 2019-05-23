@@ -1,7 +1,6 @@
 Read 08: Computer Architecture & Logic
 
-# Summary: How Computers Work (Videos)
-(https://www.youtube.com/watch?v=xnyFYiK2rSY&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=6)
+# Summary: How Computers Work [Videos](https://www.youtube.com/watch?v=xnyFYiK2rSY&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=6)
 
 ## What makes a computer a computer?
 + tool to help solve problems
