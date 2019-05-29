@@ -1,10 +1,10 @@
-Web Site Development Process and Design
+#Web Site Development Process and Design
 + Users/audience
 + Organize information
 + Design theory
 + Design tips
 
-Summary
+## Summary
 + understand your target audience - why they come to your site, what they want to find and when they're likely to return
 + site maps allow a pln for the stucture of the site
 + wireframes allow for organizing the info on each page
