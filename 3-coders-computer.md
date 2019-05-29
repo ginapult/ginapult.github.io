@@ -1,4 +1,4 @@
-Read 02: The Coder's Computer
+Read 02: The Coder's Computer - Text Editors & Terminals
 
 # Text Editors
 [Choosing a Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636) Learnings
