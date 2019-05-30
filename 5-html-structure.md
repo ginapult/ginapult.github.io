@@ -1,4 +1,4 @@
-#Web Site Development 
+# Web Site Development 
 
 Summary: This page summarizes learnings from Duckett's Chapters on HTML Process & Design (C. 18), Structure (C. 1), HTML5 Layout (C. 17), and Extra Markup (C. 8)
 
